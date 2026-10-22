@@ -1,9 +1,10 @@
 ---
-modified: 2026-10-21
+modified: 2026-10-22
 ---
 
 * INFJ
 * 高雄人
+* 拒絕平庸
 * 享受 [獨處](https://huam.ing/20261021)
 * 極簡主義者
 * 極度厭惡噪音
@@ -12,7 +13,7 @@ modified: 2026-10-21
 * 努力邁向注意力自由
 * 欣賞樸實無華的人事物
 * 好奇起來，連自己都會怕
-* 睡覺是我每天最重要的任務
+* [睡覺](https://www.books.com.tw/products/0010813161) 是我每天最重要的任務
 * 興趣是發呆、[呼吸](https://youtu.be/DbDoBzGY3vo)、觀察人類
 * 喜歡透過 [寫作](https://huam.ing/writing) 來探索內心感受
 * 很怕自己 [帶著未開發的潛能死去](https://sive.rs/htl23)
@@ -29,7 +30,7 @@ modified: 2026-10-21
 * 我 [不看新聞](https://huam.ing/20260731)，也 [不滑社群媒體](https://huam.ing/quit-social-media)，因為會忘記自己是誰
 * 討厭各種形式的資源浪費，老是想找到剛剛好的甜蜜點
 * 希望 [墓誌銘](https://huam.ing/20260828) 上寫著：黃樺明，到最後一刻 [姿勢依舊向前](https://youtu.be/RRHqKIzMml8?t=26)
-* 喜歡耐力運動，尤其是 [騎公路車和跑步](https://www.strava.com/athletes/huaminghuang)，長大想成為鐵人
+* 喜歡 [耐力運動](https://www.strava.com/athletes/huaminghuang)，尤其是騎公路車和跑步，長大想成為鐵人
 * 我來到這個世界<span data-age-counter data-birth="1996-05-01">…</span>了
 * 看起來像體育班的非科班普通生，小時候的夢想是職業運動員
 * 26 歲那年開始每天寫日記，才發現前 25 年都活在自動駕駛模式
