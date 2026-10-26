@@ -1,5 +1,5 @@
 ---
-modified: 2026-10-25
+modified: 2026-10-26
 ---
 
 * INFJ
@@ -34,5 +34,28 @@ modified: 2026-10-25
 * 我來到這個世界<span data-age-counter data-birth="1996-05-01">…</span>了
 * 看起來像體育班的非科班普通生，小時候的夢想是職業運動員
 * 26 歲那年開始每天寫日記，才發現前 25 年都活在自動駕駛模式
+* 習慣用蕃茄鐘工作法：$（專注 30 分鐘＋休息 5–10 分鐘）\times 8$
+* 我的一天有四季：
 
-![](https://media.huam.ing/image/ada3eec06ac4c94147c67004af52c60c.webp "我每天的午餐和晚餐：一鍋到底，十幾種真食物，撒點鹽、薑黃粉，和幾滴烏醋，就很滿足。")
+	```text
+   04:30          08:30          12:34          17:00          20:30
+     │——————————————│——————————————│——————————————│——————————————│
+     │     Q1       │      Q2      │      Q3      │      Q4      │
+     │——————————————│——————————————│——————————————│——————————————│
+                                                                 │
+                                                               04:30
+                                                                 ↻
+	```
+
+![](https://media.huam.ing/image/ada3eec06ac4c94147c67004af52c60c.webp "受到 [Michael Greger](https://nutritionfacts.org)《[食療聖經](https://www.books.com.tw/products/0010959070)》（[How Not to Die](https://www.goodreads.com/en/book/show/25663961-how-not-to-die)）和紀錄片《[茹素的力量](https://www.imdb.com/title/tt7455754/)》（[The Game Changers](https://gamechangersmovie.com)）影響，我從 2023 年開始當蔬食主義者，崇尚植物性飲食，這是我每天的午餐和晚餐：一鍋到底，十幾種真食物，撒點鹽、薑黃粉，和幾滴烏醋，就很滿足。")
+
+---
+
+* 我在寫什麼 `/writing`
+* 我在種什麼 `/garden`
+* 我在做什麼 `/now`
+* 我在活什麼 `/newsletter`
+* 我在讀什麼 `/subscriptions`
+* 我在存什麼 `/bookmarks`
+* 我在造什麼 `/projects`
+* 我在用什麼 `/uses`
