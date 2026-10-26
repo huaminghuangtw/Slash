@@ -34,7 +34,10 @@ modified: 2026-10-26
 * 我來到這個世界<span data-age-counter data-birth="1996-05-01">…</span>了
 * 看起來像體育班的非科班普通生，小時候的夢想是職業運動員
 * 26 歲那年開始每天寫日記，才發現前 25 年都活在自動駕駛模式
-* 習慣用蕃茄鐘工作法：$（專注 30 分鐘＋休息 5–10 分鐘）\times 8$
+* 習慣用 [蕃茄鐘工作法](https://huam.ing/20260808) 🍅：每專注 30～60 分鐘，休息 5～15 分鐘
+	* 一天累積 4～6 小時：簡直完美！
+	* 一天累積 6～8 小時：頭會有點暈！！
+	* 一天累積 8～10 小時：整個人都不好了！！！
 * 我的一天有四季：
 
 	```text
@@ -51,11 +54,12 @@ modified: 2026-10-26
 
 ---
 
-* 我在寫什麼 `/writing`
-* 我在種什麼 `/garden`
-* 我在做什麼 `/now`
-* 我在活什麼 `/newsletter`
-* 我在讀什麼 `/subscriptions`
-* 我在存什麼 `/bookmarks`
-* 我在造什麼 `/projects`
-* 我在用什麼 `/uses`
+* 我在寫什麼 [`/writing`](https://huam.ing/writing)
+* 我在種什麼 [`/garden`](https://huam.ing/garden)
+* 我在想什麼 [`/blog`](https://huam.ing/blog) [`/microblog`](https://huam.ing/microblog)
+* 我在做什麼 [`/now`](https://huam.ing/now)
+* 我在活什麼 [`/newsletter`](https://huam.ing/newsletter)
+* 我在讀什麼 [`/subscriptions`](https://huam.ing/subscriptions)
+* 我在存什麼 [`/bookmarks`](https://huam.ing/bookmarks)
+* 我在造什麼 [`/projects`](https://huam.ing/projects)
+* 我在用什麼 [`/uses`](https://huam.ing/uses)
