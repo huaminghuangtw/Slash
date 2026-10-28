@@ -1,5 +1,5 @@
 ---
-modified: 2026-10-27
+modified: 2026-10-28
 ---
 
 * INFJ
@@ -9,6 +9,7 @@ modified: 2026-10-27
 * 極簡主義者
 * 超級厭惡噪音
 * 偶像是 [小熊維尼](https://huam.ing/20260102)
+* 很需要生活儀式感
 * 刻意 [留白](https://huam.ing/20251018) 是必要的
 * 努力邁向注意力自由
 * 欣賞樸實無華的人事物
@@ -26,7 +27,7 @@ modified: 2026-10-27
 * 受《[瓦爾登湖](https://en.wikipedia.org/wiki/Walden)》啟發，嚮往原始人的 [簡單生活](https://huam.ing/20260306)
 * 想幫助人類活在沒有手機成癮和數位焦慮的世界
 * 喜歡研究生產力和 [自動化](https://shortcutomation.com)，因為時間非常非常珍貴
-* 對於健康、真理、卓越的追尋，有著無可救藥的熱情
+* 對於健康、[卓越](https://huam.ing/dear-today-me)、真理的追尋，有著無可救藥的熱情
 * 我 [不看新聞](https://huam.ing/20260731)，也 [不滑社群媒體](https://huam.ing/quit-social-media)，因為會忘記自己是誰 [^1]
 * 討厭各種形式的資源浪費，老是想找到剛剛好的甜蜜點
 * 希望 [墓誌銘](https://huam.ing/20260828) 上寫著：黃樺明，到最後一刻 [姿勢依舊向前](https://youtu.be/RRHqKIzMml8?t=26)
@@ -34,7 +35,7 @@ modified: 2026-10-27
 * 我來到這個世界<span data-age-counter data-birth="1996-05-01">…</span>了
 * 看起來像體育班的非科班普通生，小時候的夢想是職業運動員
 * 26 歲那年開始每天寫日記，才發現前 25 年都活在自動駕駛模式
-* 習慣用 [蕃茄鐘工作法](https://huam.ing/20260808) 🍅：每 [專注](https://huam.ing/20260205) 30～60 分鐘，[休息](https://huam.ing/20260227) 5～15 分鐘
+* 習慣用 [蕃茄鐘工作法](https://huam.ing/20260808) [🍅](https://huam.ing/deep-work-machine)：每 [專注](https://huam.ing/20260205) 30～60 分鐘，[休息](https://huam.ing/20260227) 5～15 分鐘
 	* 一天累積 4～6 小時：簡直完美！
 	* 一天累積 6～8 小時：頭暈腦脹想吐！！
 	* 一天累積 8～10 小時：整個人都不好了！！！
