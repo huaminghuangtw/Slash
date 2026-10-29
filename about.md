@@ -1,10 +1,10 @@
 ---
-modified: 2026-10-28
+modified: 2026-10-29
 ---
 
+* 和尚
 * INFJ
-* 高雄人
-* 拒絕平庸
+* [數據控](https://huam.ing/now)
 * 享受 [獨處](https://huam.ing/20261021)
 * 極簡主義者
 * 超級厭惡噪音
@@ -22,14 +22,14 @@ modified: 2026-10-28
 * 目前就讀人生學校，預計延畢一輩子
 * 相信進食的本質是獲得能量和攝取營養
 * 想跟魯夫一樣伸縮自如，沒事就會拉個筋
-* 正在把自己訓練成 [每天持續進步](https://huam.ing/20260523) 的永動機
+* 正在把自己訓練成 [每天持續進步](https://huam.ing/20260523) 的 [永動機](https://huam.ing/deep-work-machine)
 * 思考慢，但長遠，只想玩有複利效果的遊戲
 * 受《[瓦爾登湖](https://en.wikipedia.org/wiki/Walden)》啟發，嚮往原始人的 [簡單生活](https://huam.ing/20260306)
 * 想幫助人類活在沒有手機成癮和數位焦慮的世界
 * 喜歡研究生產力和 [自動化](https://shortcutomation.com)，因為時間非常非常珍貴
 * 對於健康、[卓越](https://huam.ing/dear-today-me)、真理的追尋，有著無可救藥的熱情
 * 我 [不看新聞](https://huam.ing/20260731)，也 [不滑社群媒體](https://huam.ing/quit-social-media)，因為會忘記自己是誰 [^1]
-* 討厭各種形式的資源浪費，老是想找到剛剛好的甜蜜點
+* 討厭各種形式的資源浪費，老是想找到 [剛剛好](20251114.md) 的甜蜜點
 * 希望 [墓誌銘](https://huam.ing/20260828) 上寫著：黃樺明，到最後一刻 [姿勢依舊向前](https://youtu.be/RRHqKIzMml8?t=26)
 * 喜歡 [耐力運動](https://www.strava.com/athletes/huaminghuang)，尤其是騎公路車和跑步，長大想成為鐵人
 * 我來到這個世界<span data-age-counter data-birth="1996-05-01">…</span>了
