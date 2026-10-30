@@ -1,3 +1,4 @@
 ---
-modified: 2026-07-30
+description: How I built this site
+modified: 2026-10-30
 ---
