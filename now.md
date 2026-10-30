@@ -1,6 +1,8 @@
 ---
-modified: 2026-10-29
+modified: 2026-10-30
+location: 嘉義 🇹🇼
 ---
 
-* [ ] 打造 [Shortcutomation](https://shortcutomation.com/) 中
-* [ ] 準備 [2027 高雄富邦馬拉松](https://khm.kcg.gov.tw/) 中
+- [ ] Building [huam.ing](https://huam.ing)
+- [ ] Launching [shortcutomation.com](https://shortcutomation.com/)
+* [ ] 準備 [2027-01-10 高雄富邦馬拉松](https://khm.kcg.gov.tw/) 中
