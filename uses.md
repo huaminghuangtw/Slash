@@ -1,6 +1,6 @@
 ---
-modified: 2026-10-29
 description: Things I use daily
+modified: 2026-10-30
 ---
 
 # Productivity System
@@ -11,4 +11,4 @@ description: Things I use daily
 
 # Sport Gears
 
-- Garmin fēnix<sup>®</sup> 7X Solar
+* Garmin fēnix<sup>®</sup> 7X Solar
