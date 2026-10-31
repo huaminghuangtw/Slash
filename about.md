@@ -1,5 +1,5 @@
 ---
-modified: 2026-10-30
+modified: 2026-10-31
 ---
 
  👋 嗨，我是樺明，歡迎來到我的個人博物館暨第二大腦！
@@ -36,7 +36,7 @@ modified: 2026-10-30
 * 喜歡研究生產力和 [自動化](https://shortcutomation.com)，因為時間非常非常珍貴
 * 對於 [健康](https://huam.ing/lifelog)、[卓越](https://huam.ing/dear-today-me)、[真理](https://huam.ing/beliefs) 的追尋，有著無可救藥的熱情
 * 我 [不看新聞](https://huam.ing/20260731)，也 [不滑社群媒體](https://huam.ing/quit-social-media)，因為會忘記自己是誰 [^4]
-* 理工直男，曾受過 [機械工程](https://pme.site.nthu.edu.tw/) 和 [電腦模擬](https://www.tum.de/en/studies/degree-programs/detail/computational-mechanics-master-of-science-msc) 的填鴨式教育
+* 理工直男，曾受過 [機械工程](https://pme.site.nthu.edu.tw/) 和 [計算力學](https://www.tum.de/en/studies/degree-programs/detail/computational-mechanics-master-of-science-msc) 的填鴨式教育
 * 討厭各種形式的資源浪費，老是想找到 [剛剛好](20251114.md) 的甜蜜點
 * 希望 [墓誌銘](https://huam.ing/20260828) 上寫著：黃樺明，到最後一刻 [姿勢依舊向前](https://youtu.be/RRHqKIzMml8?t=26)
 * 我來到這個世界<span data-age-counter data-birth="1996-05-01">…</span>了
@@ -64,17 +64,17 @@ modified: 2026-10-30
 
 # 對自己的期許
 
-* 每天不務正業
+* 每天不務正業 [^8]
 * 每天比雞早起
 * [每天都要成長](https://huam.ing/20260523)
 * 運動員的體態
 * 斯多葛的思想
 * 藝術家的靈魂
-* 凡事四分之三
+* 凡事四分之三 [^9]
 * 不要過度努力
 * [在睡夢中死去](https://huam.ing/20260617)
 * 不要留下遺憾
-* 沒有任何 [後悔](https://huam.ing/20251031)
+* [沒有任何後悔](https://huam.ing/20251031)
 
 # 其他頁面
 
@@ -99,7 +99,9 @@ modified: 2026-10-30
 [^1]: 指的是生活作息
 [^2]: 尤其是資料視覺化（Data Visualization）
 [^3]: 在人生最後一刻無撼地說出：此生足矣 😮‍💨
-[^4]: 而且，我準備了很多 [山珍](https://huam.ing/bookmarks)[海味](https://huam.ing/subscriptions) 來餵食大腦，基本上已經飽到天靈蓋了。
-[^5]: 12:34 是我最喜歡的時間。在那之前，是我的登峰造極時段 🔥 努力償還早上睜開眼就欠下的一屁股債：[深度工作](https://huam.ing/deep-work-machine)、[運動流汗](https://huam.ing/20260618)、[冰澡](https://huam.ing/20260109)；他們無法用錢解決，只能靠 [勞動](https://huam.ing/2026-10-30) ！我也藉此訓練自己透過「努力」本身來獲得 [多巴胺](https://www.google.com/search?q=多巴胺)。
+[^4]: 而且，我準備了很多 [山珍](https://huam.ing/bookmarks)[海味](https://huam.ing/subscriptions) 來餵食大腦，基本上已經飽到天靈蓋了～
+[^5]: 12:34 是我最喜歡的時間。12:34 前，是我的登峰造極時段 🔥 努力償還早上睜開眼就欠下的一屁股債：[深度工作](https://huam.ing/deep-work-machine)、[運動流汗](https://huam.ing/20260618)、[冰澡](https://huam.ing/20260109)；他們無法用錢解決，只能靠 [勞動](https://huam.ing/2026-10-30) ！我也藉此訓練自己透過「努力」本身來獲得 [多巴胺](https://www.google.com/search?q=多巴胺)。「如何在 12:34 前贏得自己對自己的尊敬？」是我每天早上都會捫心自問的問題。
 [^6]: 對我來說，吃飯和睡覺絕不能省。我們是人，不是機器人。
 [^7]: 為什麼？他們讓我成為自己想成為的人，而不是別人認為我應該成為的人。
+[^8]: 預留時間給 [支線任務（Side Quests）](https://www.quarter--mile.com/Side-Quests)
+[^9]: 剩下四分之一：休息恢復＋反省檢討。只有 0.1% 的關鍵時刻才 All-in 梭哈，因為 [Caloric energy is precious](https://stephango.com/precious)。
