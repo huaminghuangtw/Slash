@@ -1,4 +1,5 @@
 ---
+description: My life mission
 modified: 2026-10-30
 ---
 
