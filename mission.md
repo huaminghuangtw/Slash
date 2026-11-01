@@ -1,6 +1,6 @@
 ---
 description: My life mission
-modified: 2026-10-30
+modified: 2026-11-01
 ---
 
 > “Everything starts with vision. You have to see it before you can achieve it. You will never regret the time you spend to develop a very clear vision. When I say clear, I mean so clear that it plays in your mind like a movie.” — Arnold Schwarzenegger
@@ -33,7 +33,7 @@ _我心目中的理想教育，是老師用熱忱感召學生，讓他們看見�
 >
 > 李小龍說過：「[有些目標存在的意義不在於實現，而是為我們的努力指引方向。](https://www.goodreads.com/quotes/224651-a-goal-is-not-always-meant-to-be-reached-it)」
 >
-> 人生本來就毫無意義，意義是自己賦予的。在這趟旅途中，你不過是來旅行的：空手而來，空手而去；唯一能短暫擁有的，只有當下的體驗。除了此時此刻，我們一無所有。
+> 人生本來就毫無意義，意義是自己賦予的。在這趟旅途中，你不過是來旅行的：空手而來，空手而去；唯一能短暫擁有的，只有當下的體驗。除了此時此刻，你一無所有。
 >
 > 沒錯，你要追求的，是極致體驗，是整個 [過程](https://huam.ing/20260821)，還有和你一起旅行的夥伴們 — 這些才是最重要的事。
 >
