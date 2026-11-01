@@ -1,8 +1,9 @@
 ---
-description: "What I'm doing now"
-modified: 2026-10-31
+modified: 2026-11-01
 location: 嘉義 🇹🇼
 ---
+
+> “How we spend our days is how we spend our lives.” — Annie Dillard, The Writing Life
 
 - [ ] Building [huam.ing](https://huam.ing)
 - [ ] Launching [shortcutomation.com](https://shortcutomation.com/)
