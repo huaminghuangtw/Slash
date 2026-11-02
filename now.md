@@ -1,9 +1,9 @@
 ---
-modified: 2026-11-01
+modified: 2026-11-02
 location: 嘉義 🇹🇼
 ---
 
-> “How we spend our days is how we spend our lives.” — Annie Dillard, The Writing Life
+> “How we spend our days is, of course, how we spend our lives.” — Annie Dillard, The Writing Life
 
 - [ ] Building [huam.ing](https://huam.ing)
 - [ ] Launching [shortcutomation.com](https://shortcutomation.com/)
