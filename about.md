@@ -1,5 +1,5 @@
 ---
-modified: 2026-11-01
+modified: 2026-11-02
 ---
 
  👋 嗨，我是樺明，歡迎來到我的個人博物館、數位花園暨第二大腦！
@@ -38,7 +38,7 @@ modified: 2026-11-01
 * 對於 [健康](https://huam.ing/lifelog)、[卓越](https://huam.ing/dear-today-me)、[真理](https://huam.ing/beliefs) 的追尋，有著無可救藥的熱情
 * 我 [不看新聞](https://huam.ing/20260731)，也 [不滑社群媒體](https://huam.ing/quit-social-media)，因為會忘記自己是誰 [^4]
 * 理工直男，曾受過 [機械工程](https://pme.site.nthu.edu.tw/) 和 [計算力學](https://www.tum.de/en/studies/degree-programs/detail/computational-mechanics-master-of-science-msc) 的填鴨式教育
-* 討厭各種形式的資源浪費，老是想找到 [剛剛好](20251114.md) 的甜蜜點
+* 討厭各種形式的資源浪費，老是想找到 [剛剛好](../Blog/posts/20251114.md) 的甜蜜點
 * 希望 [墓誌銘](https://huam.ing/20260828) 上寫著：黃樺明，到最後一刻，[姿勢依舊向前](https://youtu.be/RRHqKIzMml8?t=26)
 * 喜歡 [耐力運動](https://www.strava.com/athletes/huaminghuang)，尤其是騎公路車和 [跑步](https://huam.ing/20261021)，長大想練鐵人三項
 * 看起來像體育班的非科班普通生，小時候的夢想是當職業運動員
@@ -52,7 +52,7 @@ modified: 2026-11-01
 
 	<div data-quarter-clock></div>
 
-* 12:34 是我最喜歡的時間。12:34 前，我都在努力償還早上睜開眼就欠下的一屁股債：[深度工作](https://huam.ing/deep-work-machine)、[運動流汗](https://huam.ing/20260618)、[冰澡](https://huam.ing/20260109)；他們無法用錢解決，只能靠 [勞動](https://huam.ing/2026-10-30) ！「如何在 12:34 前贏得自己對自己的尊敬？」是我每天早上都會捫心自問的問題。
+* 12:34 是我最喜歡的時間。12:34 前，我都在努力償還早上睜開眼就欠下的一屁股債：[深度工作](https://huam.ing/deep-work-machine)、[運動流汗](https://huam.ing/20260618)、[冰澡](https://huam.ing/20260109)；他們無法用錢解決，只能靠 [勞動](https://huam.ing/2026-10-30) ！「如何在 12:34 前贏得對自己的尊敬？」是我每天早上都會捫心自問的問題。
 * 這 [三](https://nav.al)[個](https://sive.rs)[人](https://sahilbloom.com) 改變了我的人生，他們讓我決定要用生命影響更多生命，就像他們對我的影響一樣 🙇🏽
 * 深深著迷 [做筆記](https://huam.ing/notes)、[網頁設計](https://huam.ing/colophon)、[科學化訓練](https://www.strava.com/athletes/huaminghuang) 和 [用手機寫程式](https://github.com/huaminghuangtw)。雖然沒有到廢寢忘食的程度 [^6]，但如果沒有在做這些事，就是在準備做這些事的路上！[^7]
 
