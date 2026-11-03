@@ -1,6 +1,6 @@
 ---
 description: My life mission
-modified: 2026-11-01
+modified: 2026-11-03
 ---
 
 > “Everything starts with vision. You have to see it before you can achieve it. You will never regret the time you spend to develop a very clear vision. When I say clear, I mean so clear that it plays in your mind like a movie.” — Arnold Schwarzenegger
@@ -11,7 +11,9 @@ modified: 2026-11-01
 
 # 改變文化的社會運動：幫助人類活在沒有手機成癮和數位焦慮的世界
 
-_成為手機的主人，而非僕人。_
+_我期待有一天，人類可以更重視數位斷捨離，而不是任由科技將我們的精神麵包越削越薄。_
+
+_我期待有一天，人類可以成為手機的主人，而非僕人；讓手機服務人類，而不是人類服務手機。_
 
 _我期待有一天，人類可以用更健康的手機使用習慣，守護身為人最重要的兩個資產：時間和注意力。_
 
