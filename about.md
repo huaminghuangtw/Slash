@@ -1,5 +1,5 @@
 ---
-modified: 2026-11-03
+modified: 2026-11-04
 ---
 
  👋 嗨，我是樺明，歡迎來到我的個人博物館、數位花園暨第二大腦！
@@ -82,11 +82,11 @@ modified: 2026-11-03
 * 我在看什麼 [`/subscriptions`](https://huam.ing/subscriptions)
 * 我在存什麼 [`/bookmarks`](https://huam.ing/bookmarks)
 * 我在用什麼 [`/uses`](https://huam.ing/uses)
-* 我在信什麼 [`/beliefs`](https://huam.ing/beliefs) [`/mission`](https://huam.ing/mission)
+* 我在信什麼 [`/beliefs`](https://huam.ing/beliefs) [`/values`](https://huam.ing/values) [`/mission`](https://huam.ing/mission)
 
 # 🤝
 
-如果逛了一圈，你的體感認為我們會成為好朋友，那還在等什麼？
+如果逛了一圈，你直覺我們會成為好朋友，那還在等什麼？
 
 [Let’s talk!](https://huam.ing/contact) ✌🏼
 
