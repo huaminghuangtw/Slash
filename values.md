@@ -1,6 +1,6 @@
 ---
 description: 我努力實踐的價值觀
-modified: 2026-11-04
+modified: 2026-11-05
 ---
 
 * To suffer before it is necessary is to suffer more than is necessary.
@@ -10,7 +10,7 @@ modified: 2026-11-04
 * Success isn’t an end state. Success is having the freedom to pursue the continual grind you most enjoy.
 * Open source your knowledge
 
-> Move “對自己的期許” in [about](../Slash/about.md) to this page?
+> Move “對自己的期許” in [about](about.md) to this page?
 
 * <https://nikiv.dev/values>
 * <https://nikiv.dev/meaning>
@@ -34,3 +34,5 @@ Today instead of tomorrow. Moving fast compounds so much more than people realiz
 —Sam Altman
 
 “I’ve noticed that many people compete in games they don’t understand because they are modeling the behavior of people around them. Most common is the competition for wealth as a proxy for happiness.” —Michael Seibel
+
+手機很毒拿起之前都要問自己
