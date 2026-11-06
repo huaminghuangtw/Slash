@@ -32,6 +32,7 @@ LOOKBACK_DAYS = 30
 
 FRONTMATTER = re.compile(r"\A---\r?\n(.*?)\r?\n---", re.DOTALL)
 LOCATION_LINE = re.compile(r"^location:[ \t]*(.+?)[ \t]*$", re.MULTILINE)
+PLAIN_UNSAFE = re.compile(r"""^[\s\-?:,\[\]{}#&*!|>'\"%@`]|: | #|\s$""")
 SUFFIXES = (
     "County", "City", "Province", "Prefecture", "District", "Region",
     "Township", "Municipality", "State",
@@ -143,6 +144,13 @@ def set_field(lines: list[str], key: str, value: str) -> None:
     lines.append(f"{key}: {value}")
 
 
+def scalar(value: str) -> str:
+    """Plain YAML unless the value needs quoting."""
+    if value and not PLAIN_UNSAFE.search(value):
+        return value
+    return json.dumps(value, ensure_ascii=False)
+
+
 def main() -> int:
     found = journal_location()
     if not found:
@@ -157,13 +165,12 @@ def main() -> int:
     lines, rest, before = read_now()
     place = resolve(segments)
     if place:
-        set_field(lines, "location", json.dumps(
-            f"{flag(place['country_code'])} {label}", ensure_ascii=False))
-        set_field(lines, "latitude", json.dumps(round(place["latitude"], 4)))
-        set_field(lines, "longitude", json.dumps(round(place["longitude"], 4)))
-        set_field(lines, "timeZone", json.dumps(place["timezone"]))
+        set_field(lines, "location", scalar(f"{flag(place['country_code'])} {label}"))
+        set_field(lines, "latitude", json.dumps(round(place['latitude'], 4)))
+        set_field(lines, "longitude", json.dumps(round(place['longitude'], 4)))
+        set_field(lines, "timeZone", scalar(place["timezone"]))
     else:
-        set_field(lines, "location", json.dumps(label, ensure_ascii=False))
+        set_field(lines, "location", scalar(label))
 
     updated = "---\n" + "\n".join(lines) + "\n---" + rest
     if updated == before:
