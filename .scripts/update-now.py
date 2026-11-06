@@ -1,5 +1,4 @@
-"""Point /now at where I actually am.
-
+"""
 Reads the newest Daily-Bullet-Journal `location:` line, keeps its last two
 segments (region, country — the city is dropped), resolves coordinates and
 time zone with the Open-Meteo geocoder, and writes all of it into now.md's
@@ -37,6 +36,15 @@ SUFFIXES = (
     "County", "City", "Province", "Prefecture", "District", "Region",
     "Township", "Municipality", "State",
 )
+COUNTRY_ALIASES = {
+    "usa": "united states",
+    "us": "united states",
+    "united states of america": "united states",
+    "uk": "united kingdom",
+    "u.k.": "united kingdom",
+    "great britain": "united kingdom",
+    "uae": "united arab emirates",
+}
 
 
 def flag(iso2: str) -> str:
@@ -65,9 +73,9 @@ def geocode(query: str) -> list[dict]:
 
 
 def queries_for(segments: list[str]) -> list[str]:
-    """Most specific first; GeoNames knows "Chiayi", not "Chiayi County"."""
+    """Most specific first — the city, then the areas that contain it."""
     queries: list[str] = []
-    for segment in reversed(segments[:-1]):
+    for segment in segments[:-1]:
         for query in (segment, strip_suffix(segment)):
             if query and query not in queries:
                 queries.append(query)
@@ -81,8 +89,28 @@ def strip_suffix(segment: str) -> str:
     return " ".join(words)
 
 
+def country_of(segment: str) -> str:
+    key = segment.casefold()
+    return COUNTRY_ALIASES.get(key, key)
+
+
+def matches(result: dict, country: str) -> bool:
+    return country_of(result.get("country") or "") == country
+
+
+def in_region(result: dict, region: str) -> bool:
+    """Is the place inside the journal's named area (state, county, province)?"""
+    haystack = " ".join(
+        str(result.get(key) or "") for key in ("name", "admin1", "admin2", "admin3")
+    ).casefold()
+    return region in haystack or strip_suffix(region) in haystack
+
+
 def resolve(segments: list[str]) -> dict | None:
-    country = segments[-1].casefold()
+    """Prefer a hit inside the named area; accept the country's best match otherwise."""
+    country = country_of(segments[-1])
+    region = segments[1].casefold() if len(segments) > 2 else None
+    fallback: dict | None = None
     for query in queries_for(segments):
         try:
             results = geocode(query)
@@ -90,11 +118,12 @@ def resolve(segments: list[str]) -> dict | None:
             print(f"geocode {query!r} failed: {error}", file=sys.stderr)
             continue
         for result in results:
-            if (result.get("country") or "").casefold() == country:
+            if not matches(result, country):
+                continue
+            if not region or in_region(result, region):
                 return result
-        if results:
-            return results[0]
-    return None
+            fallback = fallback or result
+    return fallback
 
 
 def read_now() -> tuple[list[str], str, str]:
@@ -117,7 +146,8 @@ def set_field(lines: list[str], key: str, value: str) -> None:
 def main() -> int:
     found = journal_location()
     if not found:
-        print(f"no journal location in the last {LOOKBACK_DAYS} days", file=sys.stderr)
+        print(
+            f"no journal location in the last {LOOKBACK_DAYS} days", file=sys.stderr)
         return 0
 
     raw, day = found
