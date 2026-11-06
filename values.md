@@ -1,6 +1,6 @@
 ---
 description: 我努力實踐的價值觀
-modified: 2026-11-05
+modified: 2026-11-06
 ---
 
 * To suffer before it is necessary is to suffer more than is necessary.
@@ -14,6 +14,7 @@ modified: 2026-11-05
 
 * <https://nikiv.dev/values>
 * <https://nikiv.dev/meaning>
+* <https://zacharykai.net/principles>
 
 Clear writing leads to clear thinking. You don’t know what you know until you try to express it. —Michael A. Covington
 
