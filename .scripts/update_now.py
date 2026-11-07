@@ -116,7 +116,7 @@ def resolve(segments: list[str]) -> dict | None:
         try:
             results = geocode(query)
         except OSError as error:
-            print(f"geocode {query!r} failed: {error}", file=sys.stderr)
+            print(f"geocode: {query!r} failed ({error})", file=sys.stderr)
             continue
         for result in results:
             if not matches(result, country):
@@ -155,7 +155,9 @@ def main() -> int:
     found = journal_location()
     if not found:
         print(
-            f"no journal location in the last {LOOKBACK_DAYS} days", file=sys.stderr)
+            f"now.md: no journal location in the last {LOOKBACK_DAYS} days, skipped",
+            file=sys.stderr,
+        )
         return 0
 
     raw, day = found
@@ -175,11 +177,12 @@ def main() -> int:
 
     updated = "---\n" + "\n".join(lines) + "\n---" + rest
     if updated == before:
-        print(f"now.md: up to date ({label}, {day})")
+        print(f"now.md: unchanged, {label} ({day})")
         return 0
 
     NOW.write_text(updated, encoding="utf-8")
-    print(f"now.md: {label} from {day}")
+    coords = "with coordinates" if place else "label only, no coordinates"
+    print(f"now.md: updated, {label} ({day}), {coords}")
     return 0
 
 
