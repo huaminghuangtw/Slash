@@ -1,6 +1,6 @@
 ---
-description: My life mission
-modified: 2026-11-03
+description: 我的人生使命
+modified: 2026-11-07
 ---
 
 > “Everything starts with vision. You have to see it before you can achieve it. You will never regret the time you spend to develop a very clear vision. When I say clear, I mean so clear that it plays in your mind like a movie.” — Arnold Schwarzenegger
