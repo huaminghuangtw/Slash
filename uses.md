@@ -1,13 +1,13 @@
 ---
 description: Things I use daily
-modified: 2026-11-11
+modified: 2026-11-12
 ---
 
 # Productivity System
 
-* Apple Calendar
-* Apple Reminders
-* Obsidian
+* [Apple Calendar](https://apps.apple.com/us/app/calendar/id1108185179)
+* [Apple Reminders](https://apps.apple.com/us/app/reminders/id1108187841)
+* [Obsidian](https://obsidian.md/)
 
 # macOS Tools
 
@@ -18,7 +18,8 @@ modified: 2026-11-11
 
 # Sport Gears
 
-* Garmin fēnix<sup>®</sup> 7X Solar [^5]
+* [Garmin fēnix](https://en.wikipedia.org/wiki/Garmin_Fenix)<sup>®</sup> 7X Solar [^5]
+* [Blackroll](https://blackroll.com/) foam rollers
 
 [^1]: A cute running cat animation in the menubar.
 [^2]: It disables temporal dither that gets sent to all displays on Mac, **reducing eyestrain** with little to no degradation in image quality.
