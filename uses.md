@@ -1,6 +1,6 @@
 ---
 description: Things I use daily
-modified: 2026-11-13
+modified: 2026-11-14
 ---
 
 # Personal Productivity System
@@ -28,7 +28,8 @@ modified: 2026-11-13
 
 # Miscellaneous
 
-* RSS reader: [Unread](https://www.goldenhillsoftware.com/unread/)
+* RSS reader: [Unread](https://www.goldenhillsoftware.com/unread)
+* Password manager: [Bitwarden](https://bitwarden.com)
 
 [^1]: A cute running cat animation in the menubar.
 [^2]: It disables temporal dither that gets sent to all displays on Mac, **reducing eyestrain** with little to no degradation in image quality.
