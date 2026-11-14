@@ -1,13 +1,13 @@
 ---
 description: 我的人生使命
-modified: 2026-11-07
+modified: 2026-11-14
 ---
 
 > “Everything starts with vision. You have to see it before you can achieve it. You will never regret the time you spend to develop a very clear vision. When I say clear, I mean so clear that it plays in your mind like a movie.” — Arnold Schwarzenegger
 
 > “Your vision will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.” — Carl Jung
 
-> “The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” — David Viscott
+> “Being the richest man in the cemetery doesn’t matter to me. Going to bed at night saying we’ve done something wonderful… that’s what matters to me.” — Steve Jobs
 
 # 改變文化的社會運動：幫助人類活在沒有手機成癮和數位焦慮的世界
 
