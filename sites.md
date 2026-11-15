@@ -1,6 +1,6 @@
 ---
 description: Personal websites with designs I like
-modified: 2026-11-13
+modified: 2026-11-15
 ---
 
 * [Emma Goto](https://www.emgoto.com)
@@ -10,3 +10,4 @@ modified: 2026-11-13
 * [Terry Godier](https://www.terrygodier.com)
 * [Nikhil Anand](https://nikhil.io)
 * [Robin Spielmann](https://www.iamrob.in)
+* [Nick Jones](https://www.narrowdesign.com)
