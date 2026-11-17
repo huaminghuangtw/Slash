@@ -43,7 +43,7 @@ modified: 2026-11-17
 [^11]: _“Every composer knows the anguish and despair occasioned by forgetting ideas which one had no time to write down.” — Hector Berlioz_
 [^12]: _「道常無為而無不為。」— 老子《道德經》第三十七章_
 [^13]: _「菩提本無樹，明鏡亦非台；本來無一物，何處惹塵埃？」—《六祖壇經》_
-[^14]: Start before you’re ready. Stop before you’re exhausted.
+[^14]: _“As you start to walk on the way, the way appears.” — Rumi_
 [^15]: _[“All the benefits in life come from compound interest - relationship, money, learning, habits - anything of importance.” — Naval Ravikant](https://nav.al/long-term)_
 [^16]: 「把對的行動重複練成不需思考的習慣」才是正解。
 [^17]: _“I only do what is easy. I only write when I immediately know how to do it, if I falter for a moment, I put the matter aside and do something else.” — Niklas Luhmann_
