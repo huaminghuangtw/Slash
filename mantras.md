@@ -1,6 +1,6 @@
 ---
-modified: 2026-11-17
 description: What I keep telling myself
+modified: 2026-11-17
 ---
 
 * No hurry. No pause.
