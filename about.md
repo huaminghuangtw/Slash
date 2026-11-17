@@ -93,6 +93,8 @@ modified: 2026-11-17
 * 我在存什麼 [`/bookmarks`](https://huam.ing/bookmarks)
 * 我在用什麼 [`/uses`](https://huam.ing/uses)
 * 我在信什麼 [`/beliefs`](https://huam.ing/beliefs) [`/values`](https://huam.ing/values) [`/mission`](https://huam.ing/mission)
+* 我在避什麼 [`/dont`](https://huam.ing/dont)
+* 我在念什麼 [`/mantras`](https://huam.ing/uses)
 
 # 🤝
 
