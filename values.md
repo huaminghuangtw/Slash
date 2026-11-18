@@ -1,6 +1,6 @@
 ---
 description: 我努力實踐的價值觀
-modified: 2026-11-17
+modified: 2026-11-18
 ---
 
 * 以終為始。[^1]
@@ -20,6 +20,7 @@ modified: 2026-11-17
 * 分享給想聽的人，傾聽想分享的人。[^9]
 * 開源你的知識庫，別只放在筆記軟體。
 * 手機很毒，每次拿起前問：我為什麼要用？
+* 可以用身體感覺處理好的事，就不要用腦袋。
 * 拒絕平庸，同時也努力 [讓自己看起來很平庸](https://wiwi.blog/blog/countersignaling/)。
 * 好記性不如爛筆頭。靈感出現時，立刻寫下來。[^10] [^11]
 * 放下執念、一切隨緣、順其自然、跟著能量流動。[^12] [^13]
@@ -28,7 +29,7 @@ modified: 2026-11-17
 * 放棄沒有複利累積效果的東西，只玩沒有終點線的無限遊戲。[^15]
 * 仔細傾聽身體的耳語與內心的聲音，他們會指引你下一步要怎麼走。
 * 除非逼不得已，才動用意志力 [^16]。大部分時候處在「**專注，但放鬆**」的狀態。[^17] [^18]
-* 決定投入一件事後，要有「成為世界第一」的決心 [^19] [^20]；同時帶著敬畏之心，默默耕耘，不帶目標地努力，讓成果自己說話、讓獎勵自己報到。[^21] [^22]
+* 決定投入一件事後，用「世界級標準」檢視自己 [^19] [^20]；同時帶著敬畏之心，默默耕耘，不帶目標地努力，讓成果自己說話、讓獎勵自己報到。[^21] [^22]
 
 [^1]: _“If you don’t know where you’re going, you might not like where you end up.” — David Bach, [The Latte Factor](https://www.goodreads.com/work/quotes/66413238)_
 [^2]: _“Concentrate all your thoughts upon the work at hand. The sun’s rays do not burn until brought to a focus.” — Alexander Graham Bell_
