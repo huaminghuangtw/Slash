@@ -1,13 +1,17 @@
 ---
 description: Things I use daily
-modified: 2026-11-14
+modified: 2026-11-18
 ---
 
 # Personal Productivity System
 
 * [Apple Calendar](https://apps.apple.com/us/app/calendar/id1108185179)
 * [Apple Reminders](https://apps.apple.com/us/app/reminders/id1108187841)
+
+# Automation
+
 * [Apple Shortcuts](https://shortcutomation.com)
+* [Hammerspoon](https://www.hammerspoon.org)
 
 # Personal Knowledge Management System
 
