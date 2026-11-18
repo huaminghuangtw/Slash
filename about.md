@@ -1,6 +1,6 @@
 ---
 description: 關於我
-modified: 2026-11-17
+modified: 2026-11-18
 ---
 
  👋 嗨，我是樺明，歡迎來到我的個人博物館、數位花園暨第二大腦！
@@ -50,8 +50,8 @@ modified: 2026-11-17
 	* 一天累積 4～6 小時：簡直完美
 	* 一天累積 6～8 小時：頭暈腦脹想吐
 	* 一天累積 8～10 小時：整個人都不好了
-* 我來到這個世界<span data-age-counter>…</span>了（＝<span data-age-counter="decimal">…</span> 年）
-* 我的一天有四季，[完美日常](https://huam.ing/20260116) 是 [20:30 就寢、04:30 起床](https://huam.ing/lifelog)，畢竟 [一日之計在昨夜](https://huam.ing/20260403)：[^14]
+* [我來到這個世界](https://huam.ing/death-clock)<span data-age-counter>…</span>了（＝<span data-age-counter="decimal">…</span> 年）
+* [我的一天有四季](https://huam.ing/day-progress)，[完美日常](https://huam.ing/20260116) 是 [20:30 就寢、04:30 起床](https://huam.ing/lifelog)，畢竟 [一日之計在昨夜](https://huam.ing/20260403)：[^14]
 
 	<div data-quarter-clock></div>
 
