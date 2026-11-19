@@ -1,6 +1,6 @@
 ---
 description: 我努力實踐的價值觀
-modified: 2026-11-18
+modified: 2026-11-19
 ---
 
 * 以終為始。[^1]
@@ -19,8 +19,8 @@ modified: 2026-11-18
 * 帶著興奮起床，帶著滿足入睡。[^8]
 * 分享給想聽的人，傾聽想分享的人。[^9]
 * 開源你的知識庫，別只放在筆記軟體。
+* 可以用身體感覺處理的事，就別用腦袋。
 * 手機很毒，每次拿起前問：我為什麼要用？
-* 可以用身體感覺處理好的事，就不要用腦袋。
 * 拒絕平庸，同時也努力 [讓自己看起來很平庸](https://wiwi.blog/blog/countersignaling/)。
 * 好記性不如爛筆頭。靈感出現時，立刻寫下來。[^10] [^11]
 * 放下執念、一切隨緣、順其自然、跟著能量流動。[^12] [^13]
@@ -29,7 +29,7 @@ modified: 2026-11-18
 * 放棄沒有複利累積效果的東西，只玩沒有終點線的無限遊戲。[^15]
 * 仔細傾聽身體的耳語與內心的聲音，他們會指引你下一步要怎麼走。
 * 除非逼不得已，才動用意志力 [^16]。大部分時候處在「**專注，但放鬆**」的狀態。[^17] [^18]
-* 決定投入一件事後，用「世界級標準」檢視自己 [^19] [^20]；同時帶著敬畏之心，默默耕耘，不帶目標地努力，讓成果自己說話、讓獎勵自己報到。[^21] [^22]
+* 決定投入一件事後，時常用「[世界級標準](https://chengweihu.com/pg-on-great-work/)」檢視自己 [^19] [^20] [^21]；同時帶著敬畏之心，默默耕耘，不帶目標地努力，[讓慾望安靜](https://huam.ing/20251213)、讓成果自己說話、讓獎勵自己報到。[^22] [^23]
 
 [^1]: _“If you don’t know where you’re going, you might not like where you end up.” — David Bach, [The Latte Factor](https://www.goodreads.com/work/quotes/66413238)_
 [^2]: _“Concentrate all your thoughts upon the work at hand. The sun’s rays do not burn until brought to a focus.” — Alexander Graham Bell_
@@ -51,5 +51,6 @@ modified: 2026-11-18
 [^18]: _“Before you try to increase your willpower, try to decrease the friction in your environment.” — James Clear_
 [^19]: _“Whatever you do, strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.” — Benjamin Mays_
 [^20]: _“If you’re not 100% into it, somebody else who is 100% into it will outperform you. And they won’t just outperform you by a little bit, they’ll outperform you by a lot.” — Naval Ravikant_
-[^21]: Just shoot. Don’t aim. Work hard in silence. Let your work make the noise.
-[^22]: _[“Don’t aim at success. The more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side effect of one’s personal dedication to a cause greater than oneself or as the by-product of one’s surrender to a person other than oneself. Happiness must happen, and the same holds for success: you have to let it happen by not caring about it. I want you to listen to what your conscience commands you to do and go on to carry it out to the best of your knowledge. Then you will live to see that in the long-run—in the long-run, I say!—success will follow you precisely because you had forgotten to think about it.” — Viktor E. Frankl, Man’s Search for Meaning](http://goodreads.com/quotes/34673-don-t-aim-at-success-the-more-you-aim-at-it)_
+[^21]: The most powerful sign of social proof is in [doing great work](https://paulgraham.com/greatwork.html). Your work is your [three-dimensional business card](https://herbertlui.net/three-dimensional-business-cards/).
+[^22]: Just shoot. Don’t aim. Work hard in silence. Let your work make the noise.
+[^23]: _[“Don’t aim at success. The more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side effect of one’s personal dedication to a cause greater than oneself or as the by-product of one’s surrender to a person other than oneself. Happiness must happen, and the same holds for success: you have to let it happen by not caring about it. I want you to listen to what your conscience commands you to do and go on to carry it out to the best of your knowledge. Then you will live to see that in the long-run—in the long-run, I say!—success will follow you precisely because you had forgotten to think about it.” — Viktor E. Frankl, Man’s Search for Meaning](http://goodreads.com/quotes/34673-don-t-aim-at-success-the-more-you-aim-at-it)_
