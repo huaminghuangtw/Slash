@@ -1,6 +1,6 @@
 ---
 description: 關於我
-modified: 2026-11-18
+modified: 2026-11-20
 ---
 
  👋 嗨，我是樺明，歡迎來到我的個人博物館、數位花園暨第二大腦！
@@ -57,28 +57,28 @@ modified: 2026-11-18
 
 * 12:34 是我最喜歡的時間。12:34 前，我都在努力償還早上睜開眼就欠下的一屁股債：[深度工作](https://huam.ing/deep-work-machine)、[運動流汗](https://huam.ing/20260618)、[冰澡](https://huam.ing/20260109)；他們無法用錢解決，只能靠 [勞動](https://huam.ing/2026-10-30) ！「_如何在 12:34 前贏得對自己的尊敬？_」是我每天早上都會捫心自問的問題。
 * 這 [三](https://nav.al)[個](https://sive.rs)[人](https://sahilbloom.com) 改變了我的人生，他們讓我決定要透過文字的力量影響更多生命，就像他們對我的影響一樣 🙇🏽
-* 深深著迷 [網頁開發設計](https://huam.ing/colophon)、[科學化訓練](https://www.strava.com/athletes/huaminghuang)、[整理學習筆記](https://huam.ing/notes) 和 [用手機寫程式](https://github.com/huaminghuangtw) [^15]。雖然沒有到廢寢忘食的程度 [^16]，但如果沒有在做這些事，就是在準備做這些事的路上。[^17]
+* 深深著迷 [網頁開發設計](https://huam.ing/colophon)、[科學化訓練](https://www.strava.com/athletes/huaminghuang)、[整理學習筆記](https://huam.ing/notes) 和 [用手機寫程式](https://github.com/huaminghuangtw)。雖然沒有到廢寢忘食的程度 [^15]，但如果沒有在做這些事，就是在準備做這些事的路上。[^16]
 
 # 對自己的期許
 
-* 永保赤子之心
-* 每天不務正業 [^18]
+* 每天不務正業 [^17]
 * 每天比雞早起
 * [每天都要成長](https://huam.ing/20260523)
-* 每天砍柴挑水 [^19]
+* 每天砍柴挑水 [^18]
 * 運動員的體態
 * 斯多葛的思想
 * 藝術家的靈魂
 * 學會無憂無慮
 * 極端長線思考
-* 拒絕隨波逐流 [^20]
-* 凡事四分之三 [^21]
+* 拒絕隨波逐流 [^19]
+* 凡事四分之三 [^20]
 * 不要過度努力
-* 活得清澈透明 [^22]
-* 當個瀟灑的人 [^23]
+* 活得清澈透明 [^21]
+* 當個瀟灑的人 [^22]
 * [在睡夢中死去](https://huam.ing/20260617)
 * 不要留下遺憾
 * [沒有任何後悔](https://huam.ing/20251031)
+* 永保赤子之心
 
 # 其他頁面
 
@@ -114,14 +114,13 @@ modified: 2026-11-18
 [^10]: 最喜歡去公園的斜坡大草坪，躺在瑜伽墊上做這些事 ☺️
 [^11]: 在人生最後一刻無撼地說出：此生足矣 😮‍💨
 [^12]: 例如：練習 [鍵盤快捷鍵](https://huam.ing/keyboard-hotkey)
-[^13]: 而且，我準備了很多 [山珍](https://huam.ing/bookmarks)[海味](https://huam.ing/subscriptions) 來餵食大腦，基本上已經飽到天靈蓋了 🫃🏽
+[^13]: 而且，我準備了很多 [山珍](https://huam.ing/bookmarks)[海味](https://huam.ing/subscriptions) 來餵食大腦，每天都飽到天靈蓋 🫃🏽
 [^14]: _“Instead of feeling that you’ve blown the day and thinking, “I’ll get back on track tomorrow,” try thinking of each day as a set of four quarters: morning, midday, afternoon, evening. If you blow one quarter, you get back on track for the next quarter. Fail small, not big.” — Gretchen Rubin, Better Than Before_
-[^15]: 我想，可能是因為他們都能提升我的生活品質吧～！
-[^16]: 對我來說，吃飯和睡覺絕不能省。我們是人，不是機器人。
-[^17]: 為什麼？他們讓我成為自己想成為的人，而不是別人認為我應該成為的人。
-[^18]: 預留時間給 [支線任務（Side Quests）](https://www.quarter--mile.com/Side-Quests)
-[^19]: 一位修行者問禪師：「老師，開悟之前，您每天做些什麼？」禪師回答：「砍柴、挑水。」修行者又問：「那開悟之後呢？」禪師回答：「砍柴、挑水。」修行者不解地問：「那開悟前後有什麼不同？」禪師回答：「_開悟之前，砍柴時想著挑水，挑水時想著煮飯；開悟之後，砍柴就是砍柴，挑水就是挑水。_」
-[^20]: [北投法鼓山農禪寺的照壁上](https://www.flickr.com/photos/136757578@N05/48138229851/in/photostream/) 刻著：「_應無所住，而生其心。_」據說，六祖惠能大師就是聽到這句話後開悟的。
-[^21]: 剩下四分之一：休息恢復＋反省檢討。只有 0.1% 的關鍵時刻才全力以赴、火力全開，因為 [Caloric energy is precious](https://stephango.com/precious)。
-[^22]: aka 通透
-[^23]: _[「不管在什麼地方，一個真正瀟灑的男人，總會因爲翩翩的行為舉止，還有自在合度的風格，讓人先注意到他的存在，然後才因爲好奇，進一步了解他的專業，最後才是他的頭銜。通常在酒會的紅地毯上，能夠讓男人和女人都感到興趣，雖然穿著正式的服裝，手上握著香檳酒杯，卻像在自己家裡穿著睡袍、拿著一杯熱巧克力同樣舒適，這種令人想要接近的男人，就是一個生命有著豐富層次的瀟灑男人。」— 褚士瑩《給自己 10 樣人生禮物》](https://www.books.com.tw/products/0010896448)_
+[^15]: 對我來說，吃飯和睡覺絕不能省。我們是人，不是機器人。
+[^16]: 為什麼？他們讓我成為自己想成為的人，而不是別人認為我應該成為的人。
+[^17]: 預留時間給 [支線任務（Side Quests）](https://www.quarter--mile.com/Side-Quests)，也就是 [沒用的事](https://wiwi.blog/blog/productivity-to-uselessness) 啦！
+[^18]: 一位修行者問禪師：「老師，開悟之前，您每天做些什麼？」禪師回答：「砍柴、挑水。」修行者又問：「那開悟之後呢？」禪師回答：「砍柴、挑水。」修行者不解地問：「那開悟前後有什麼不同？」禪師回答：「_開悟之前，砍柴時想著挑水，挑水時想著煮飯；開悟之後，砍柴就是砍柴，挑水就是挑水。_」
+[^19]: [北投法鼓山農禪寺的照壁上](https://www.flickr.com/photos/136757578@N05/48138229851/in/photostream/) 刻著：「_應無所住，而生其心。_」據說，六祖惠能大師就是聽到這句話後開悟的。
+[^20]: 剩下四分之一：休息恢復＋反省檢討。只有 0.1% 的關鍵時刻才全力以赴、火力全開，因為 [Caloric energy is precious](https://stephango.com/precious)。
+[^21]: aka 通透
+[^22]: _[「不管在什麼地方，一個真正瀟灑的男人，總會因爲翩翩的行為舉止，還有自在合度的風格，讓人先注意到他的存在，然後才因爲好奇，進一步了解他的專業，最後才是他的頭銜。通常在酒會的紅地毯上，能夠讓男人和女人都感到興趣，雖然穿著正式的服裝，手上握著香檳酒杯，卻像在自己家裡穿著睡袍、拿著一杯熱巧克力同樣舒適，這種令人想要接近的男人，就是一個生命有著豐富層次的瀟灑男人。」— 褚士瑩《給自己 10 樣人生禮物》](https://www.books.com.tw/products/0010896448)_
