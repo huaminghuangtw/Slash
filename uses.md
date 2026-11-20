@@ -1,6 +1,6 @@
 ---
 description: Things I use daily
-modified: 2026-11-18
+modified: 2026-11-20
 ---
 
 # Personal Productivity System
@@ -30,10 +30,22 @@ modified: 2026-11-18
 * [Garmin fēnix](https://en.wikipedia.org/wiki/Garmin_Fenix)<sup>®</sup> 7X Solar [^5]
 * [Blackroll](https://blackroll.com/) foam rollers
 
+# Browser Extensions
+
+- [Momentum](https://momentumdash.com/)
+* [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube)
+* [Unhook](https://unhook.app)
+* [DeArrow](https://dearrow.ajay.app)
+* [SponsorBlock](https://sponsor.ajay.app)
+* [Dark Reader](https://darkreader.org)
+- [LeechBlock](https://www.proginosko.com/leechblock)
+
 # Miscellaneous
 
+* Web browser: [Brave](https://brave.com)
 * RSS reader: [Unread](https://www.goldenhillsoftware.com/unread)
 * Password manager: [Bitwarden](https://bitwarden.com)
+* Bookmarks & tabs manager: [Floccus](https://floccus.org)
 
 [^1]: A cute running cat animation in the menubar.
 [^2]: It disables temporal dither that gets sent to all displays on Mac, **reducing eyestrain** with little to no degradation in image quality.
