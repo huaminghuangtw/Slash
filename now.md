@@ -1,9 +1,9 @@
 ---
 description: What I’m doing now
 modified: 2026-11-13
-location: 🇹🇼 Chiayi County, Taiwan
-latitude: 23.4594
-longitude: 120.3322
+location: 🇹🇼 Changhua County, Taiwan
+latitude: 23.9567
+longitude: 120.5761
 timeZone: Asia/Taipei
 ---
 
