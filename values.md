@@ -1,6 +1,6 @@
 ---
 description: 我努力實踐的價值觀
-modified: 2026-11-20
+modified: 2026-11-22
 ---
 
 * 以終為始。[^1]
@@ -10,8 +10,8 @@ modified: 2026-11-20
 * 做好做精不做多。
 * 保護好你的 [注意力](https://youtu.be/2hITZpxhdYs)。[^3]
 * 嚴以律己，寬以待人。
+* 有瓜吃瓜、有豆吃豆。
 * 日出而作，日入而息。[^4]
-* 當一個 [沒用](https://sive.rs/useless) 但友善的人。
 * 對話時，用好奇取代評論。
 * 追求 [墓誌銘](https://huam.ing/20260828)，而非履歷表。[^5] [^6] [^7]
 * 學會休息，而不是降低標準。
@@ -29,7 +29,7 @@ modified: 2026-11-20
 * 放棄沒有複利累積效果的東西，只玩沒有終點線的無限遊戲。[^15]
 * 仔細傾聽身體的耳語與內心的聲音，他們會指引你下一步要怎麼走。
 * 除非逼不得已，才動用意志力 [^16]。大部分時候處在「**專注，但放鬆**」的狀態。[^17] [^18]
-* 決定投入一件事後，時常用「[世界級標準](https://chengweihu.com/pg-on-great-work/)」檢視自己 [^19] [^20] [^21]；同時帶著敬畏之心，默默耕耘，不帶目標地努力，[讓慾望安靜](https://huam.ing/20251213)、讓成果自己說話、讓獎勵自己報到。[^22] [^23]
+* 決定投入一件事後，時常用「[世界級標準](https://chengweihu.com/pg-on-great-work/)」賞自己一頓粗飽 [^19] [^20] [^21]；同時帶著敬畏之心，默默耕耘，不帶目標地努力，[讓慾望安靜](https://huam.ing/20251213)、讓成果自己說話、讓獎勵自己報到。[^22] [^23]
 
 [^1]: _“If you don’t know where you’re going, you might not like where you end up.” — David Bach, [The Latte Factor](https://www.goodreads.com/work/quotes/66413238)_
 [^2]: _“Concentrate all your thoughts upon the work at hand. The sun’s rays do not burn until brought to a focus.” — Alexander Graham Bell_
