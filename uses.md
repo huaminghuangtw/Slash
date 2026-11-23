@@ -32,13 +32,13 @@ modified: 2026-11-20
 
 # Browser Extensions
 
-- [Momentum](https://momentumdash.com/)
+* [Momentum](https://momentumdash.com/)
 * [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube)
 * [Unhook](https://unhook.app)
 * [DeArrow](https://dearrow.ajay.app)
 * [SponsorBlock](https://sponsor.ajay.app)
 * [Dark Reader](https://darkreader.org)
-- [LeechBlock](https://www.proginosko.com/leechblock)
+* [LeechBlock](https://www.proginosko.com/leechblock)
 
 # Miscellaneous
 
