@@ -1,6 +1,6 @@
 ---
 description: 關於我
-modified: 2026-11-20
+modified: 2026-11-23
 ---
 
  👋 嗨，我是樺明，歡迎來到我的個人博物館、數位花園暨第二大腦！
@@ -17,18 +17,20 @@ modified: 2026-11-20
 * 金針菇愛好者
 * 飯前會練習感恩
 * 偶像是 [小熊維尼](https://huam.ing/20260102) [^8]
-* 拒絕平庸的平凡人
+* 拒絕平庸的平凡人 [^9]
 * 常覺得自己很無知
-* 喜歡用 [攪拌匙](https://www.google.com/search?q=攪拌匙&udm=2) 吃飯 [^9]
+* 喜歡用 [攪拌匙](https://www.google.com/search?q=攪拌匙&udm=2) 吃飯 [^10]
 * 努力邁向注意力自由
 * 出生於高雄 [安田婦產科](https://www.google.com/search?q=安田婦產科)
+* 沒有 [燕麥粥](https://www.google.com/search?q=porridge&udm=2) 會活不下去
 * 好奇起來，連自己都會怕
 * [睡覺](https://huam.ing/20260106) 是我每天最重要的任務
-* 興趣是發呆、[呼吸](https://youtu.be/DbDoBzGY3vo)、觀察人類 [^10]
+* 興趣是發呆、[呼吸](https://youtu.be/DbDoBzGY3vo)、觀察人類 [^11]
 * 喜歡透過 [寫作](https://huam.ing/writing) 來探索內心感受
-* 很怕自己 [帶著未開發的潛能死去](https://sive.rs/htl23) [^11]
-* 欣賞樸實無華、為愛而生的人事物
+* 很怕自己 [帶著未開發的潛能死去](https://sive.rs/htl23) [^12]
 * 花很多時間冥想、[散步](https://huam.ing/walking)、冷熱交替
+* 每日手機螢幕時間不會超過 1 小時
+* 欣賞 [樸實無華、為愛而生](https://huam.ing/20260806) 的人事物
 * 目前就讀人生學校，預計延畢一輩子
 * 想 [幫助臺灣的學生運動員有更好的環境](https://huam.ing/mission)
 * 想跟魯夫一樣伸縮自如，沒事就會拉個筋
@@ -37,9 +39,9 @@ modified: 2026-11-20
 * 想 [幫助人類活在沒有手機成癮和數位焦慮的世界](https://huam.ing/mission)
 * 受《[瓦爾登湖](https://en.wikipedia.org/wiki/Walden)》啟發，嚮往精神富足的 [簡單生活](https://huam.ing/20260306)
 * 思考慢，但 [長遠](https://huam.ing/mission)，只想玩有複利效果的 [無限遊戲](https://huam.ing/finite-and-infinite-games)
-* 喜歡研究生產力 [^12] 和 [自動化](https://shortcutomation.com)，因為時間非常非常珍貴
+* 喜歡研究生產力 [^13] 和 [自動化](https://shortcutomation.com)，因為時間非常非常珍貴
 * 對於 [健康](https://huam.ing/lifelog)、[卓越](https://huam.ing/dear-today-me)、[真理](https://huam.ing/beliefs) 的追尋，有著無可救藥的熱情
-* 我 [不看新聞](https://huam.ing/20260731)，也 [不滑社群媒體](https://huam.ing/quit-social-media)，因為會忘記自己是誰 [^13]
+* 我 [不看新聞](https://huam.ing/20260731)，也 [不滑社群媒體](https://huam.ing/quit-social-media)，因為會忘記自己是誰 [^14]
 * 理工直男，曾受過 [機械工程](https://pme.site.nthu.edu.tw/) 和 [計算力學](https://www.tum.de/en/studies/degree-programs/detail/computational-mechanics-master-of-science-msc) 的填鴨式教育
 * 討厭各種形式的資源浪費，老是想找到 [剛剛好](../Blog/posts/20251114.md) 的甜蜜點
 * 希望 [墓誌銘](https://huam.ing/20260828) 上寫著：黃樺明，到最後一刻，[姿勢依舊向前](https://youtu.be/RRHqKIzMml8?t=26)
@@ -51,30 +53,31 @@ modified: 2026-11-20
 	* 一天累積 6～8 小時：頭暈腦脹想吐
 	* 一天累積 8～10 小時：整個人都不好了
 * [我來到這個世界](https://huam.ing/death-clock)<span data-age-counter>…</span>了（＝<span data-age-counter="decimal">…</span> 年）
-* [我的一天有四季](https://huam.ing/day-progress)，[完美日常](https://huam.ing/20260116) 是 [20:30 就寢、04:30 起床](https://huam.ing/lifelog)，畢竟 [一日之計在昨夜](https://huam.ing/20260403)：[^14]
+* [我的一天有四季](https://huam.ing/day-progress)，[完美日常](https://huam.ing/20260116) 是 [20:30 就寢、04:30 起床](https://huam.ing/lifelog)，畢竟 [一日之計在昨夜](https://huam.ing/20260403)：[^15]
 
 	<div data-quarter-clock></div>
 
 * 12:34 是我最喜歡的時間。12:34 前，我都在努力償還早上睜開眼就欠下的一屁股債：[深度工作](https://huam.ing/deep-work-machine)、[運動流汗](https://huam.ing/20260618)、[冰澡](https://huam.ing/20260109)；他們無法用錢解決，只能靠 [勞動](https://huam.ing/2026-10-30) ！「_如何在 12:34 前贏得對自己的尊敬？_」是我每天早上都會捫心自問的問題。
-* 這 [三](https://nav.al)[個](https://sive.rs)[人](https://sahilbloom.com) 改變了我的人生，他們讓我決定要透過文字的力量影響更多生命，就像他們對我的影響一樣 🙇🏽
-* 深深著迷 [網頁開發設計](https://huam.ing/colophon)、[科學化訓練](https://www.strava.com/athletes/huaminghuang)、[整理學習筆記](https://huam.ing/notes) 和 [用手機寫程式](https://github.com/huaminghuangtw)。雖然沒有到廢寢忘食的程度 [^15]，但如果沒有在做這些事，就是在準備做這些事的路上。[^16]
+* [這](https://nav.al)[五](https://sive.rs)[位](https://sahilbloom.com)[學](https://tim.blog)[長](https://aliabdaal.com) 改變了我的人生，沒有他們，我到現在還是一塊不知何去何從的浮木。他們讓我決定要透過文字的力量影響更多生命，就像他們對我的影響一樣 🙇🏽
+* 深深著迷 [網頁開發設計](https://huam.ing/colophon)、[科學化訓練](https://www.strava.com/athletes/huaminghuang)、[整理學習筆記](https://huam.ing/notes) 和 [用手機寫程式](https://github.com/huaminghuangtw)。雖然沒有到廢寢忘食的程度 [^16]，但如果沒有在做這些事，就是在準備做這些事的路上。[^17]
 
 # 對自己的期許
 
-* 每天不務正業 [^17]
+* 每天不務正業 [^18]
 * 每天比雞早起
 * [每天都要成長](https://huam.ing/20260523)
-* 每天砍柴挑水 [^18]
+* 每天砍柴挑水 [^19]
 * 運動員的體態
 * 斯多葛的思想
 * 藝術家的靈魂
 * 學會無憂無慮
 * 極端長線思考
-* 拒絕隨波逐流 [^19]
-* 凡事四分之三 [^20]
+* 拒絕隨波逐流 [^20]
+* 凡事四分之三 [^21]
 * 不要過度努力
-* 活得清澈透明 [^21]
-* 當個瀟灑的人 [^22]
+* 活得清澈透明 [^22]
+* 當個瀟灑的人 [^23]
+* 當個無用之人 [^24]
 * [在睡夢中死去](https://huam.ing/20260617)
 * 不要留下遺憾
 * [沒有任何後悔](https://huam.ing/20251031)
@@ -110,17 +113,19 @@ modified: 2026-11-20
 [^6]: _[「長大後，你可以不懂快樂，但不能不懂寂寞。」— 張西](https://www.youtube.com/shorts/3Qr9tlj_G-w)_
 [^7]: I’m not anti-social. I’m just pro-solitude.
 [^8]: 小熊維尼最喜歡的時間是「現在」、最喜歡的日子是「今天」、最喜歡的地方是「這裡」；而我最喜歡的字，是「Enoughness」。
-[^9]: 為什麼？(1) 省力 (2) 份量控制
-[^10]: 最喜歡去公園的斜坡大草坪，躺在瑜伽墊上做這些事 ☺️
-[^11]: 在人生最後一刻無撼地說出：此生足矣 😮‍💨
-[^12]: 例如：練習 [鍵盤快捷鍵](https://huam.ing/keyboard-hotkey)
-[^13]: 而且，我準備了很多 [山珍](https://huam.ing/bookmarks)[海味](https://huam.ing/subscriptions) 來餵食大腦，每天都飽到天靈蓋 🫃🏽
-[^14]: _“Instead of feeling that you’ve blown the day and thinking, “I’ll get back on track tomorrow,” try thinking of each day as a set of four quarters: morning, midday, afternoon, evening. If you blow one quarter, you get back on track for the next quarter. Fail small, not big.” — Gretchen Rubin, Better Than Before_
-[^15]: 對我來說，吃飯和睡覺絕不能省。我們是人，不是機器人。
-[^16]: 為什麼？他們讓我成為自己想成為的人，而不是別人認為我應該成為的人。
-[^17]: 預留時間給 [支線任務（Side Quests）](https://www.quarter--mile.com/Side-Quests)，也就是 [沒用的事](https://wiwi.blog/blog/productivity-to-uselessness) 啦！
-[^18]: 一位修行者問禪師：「老師，開悟之前，您每天做些什麼？」禪師回答：「砍柴、挑水。」修行者又問：「那開悟之後呢？」禪師回答：「砍柴、挑水。」修行者不解地問：「那開悟前後有什麼不同？」禪師回答：「_開悟之前，砍柴時想著挑水，挑水時想著煮飯；開悟之後，砍柴就是砍柴，挑水就是挑水。_」
-[^19]: [北投法鼓山農禪寺的照壁上](https://www.flickr.com/photos/136757578@N05/48138229851/in/photostream/) 刻著：「_應無所住，而生其心。_」據說，六祖惠能大師就是聽到這句話後開悟的。
-[^20]: 剩下四分之一：休息恢復＋反省檢討。只有 0.1% 的關鍵時刻才全力以赴、火力全開，因為 [Caloric energy is precious](https://stephango.com/precious)。
-[^21]: aka 通透
-[^22]: _[「不管在什麼地方，一個真正瀟灑的男人，總會因爲翩翩的行為舉止，還有自在合度的風格，讓人先注意到他的存在，然後才因爲好奇，進一步了解他的專業，最後才是他的頭銜。通常在酒會的紅地毯上，能夠讓男人和女人都感到興趣，雖然穿著正式的服裝，手上握著香檳酒杯，卻像在自己家裡穿著睡袍、拿著一杯熱巧克力同樣舒適，這種令人想要接近的男人，就是一個生命有著豐富層次的瀟灑男人。」— 褚士瑩《給自己 10 樣人生禮物》](https://www.books.com.tw/products/0010896448)_
+[^9]: _“I think it is possible for ordinary people to choose to be extraordinary.” — Elon Musk_
+[^10]: 為什麼？(1) 省力 (2) 份量控制
+[^11]: 最喜歡去公園的斜坡大草坪，躺在瑜伽墊上做這些事 ☺️
+[^12]: 在人生最後一刻無撼地說出：此生足矣 😮‍💨
+[^13]: 例如：練習 [鍵盤快捷鍵](https://huam.ing/keyboard-hotkey)
+[^14]: 而且，我準備了很多 [山珍](https://huam.ing/bookmarks)[海味](https://huam.ing/subscriptions) 來餵食大腦，每天都飽到天靈蓋 🫃🏽
+[^15]: _“Instead of feeling that you’ve blown the day and thinking, “I’ll get back on track tomorrow,” try thinking of each day as a set of four quarters: morning, midday, afternoon, evening. If you blow one quarter, you get back on track for the next quarter. Fail small, not big.” — Gretchen Rubin, Better Than Before_
+[^16]: 對我來說，吃飯和睡覺絕不能省。我們是人，不是機器人。
+[^17]: 為什麼？他們讓我成為自己想成為的人，而不是別人認為我應該成為的人。
+[^18]: 預留時間給 [支線任務（Side Quests）](https://www.quarter--mile.com/Side-Quests)，也就是 [沒用的事](https://wiwi.blog/blog/productivity-to-uselessness) 啦！
+[^19]: 一位修行者問禪師：「老師，開悟之前，您每天做些什麼？」禪師回答：「砍柴、挑水。」修行者又問：「那開悟之後呢？」禪師回答：「砍柴、挑水。」修行者不解地問：「那開悟前後有什麼不同？」禪師回答：「_開悟之前，砍柴時想著挑水，挑水時想著煮飯；開悟之後，砍柴就是砍柴，挑水就是挑水。_」
+[^20]: [北投法鼓山農禪寺的照壁上](https://www.flickr.com/photos/136757578@N05/48138229851/in/photostream/) 刻著：「_應無所住，而生其心。_」據說，六祖惠能大師就是聽到這句話後開悟的。
+[^21]: 剩下四分之一：休息恢復＋反省檢討。只有 0.1% 的關鍵時刻才全力以赴、火力全開，因為 [Caloric energy is precious](https://stephango.com/precious)。
+[^22]: aka 通透
+[^23]: _[「不管在什麼地方，一個真正瀟灑的男人，總會因爲翩翩的行為舉止，還有自在合度的風格，讓人先注意到他的存在，然後才因爲好奇，進一步了解他的專業，最後才是他的頭銜。通常在酒會的紅地毯上，能夠讓男人和女人都感到興趣，雖然穿著正式的服裝，手上握著香檳酒杯，卻像在自己家裡穿著睡袍、拿著一杯熱巧克力同樣舒適，這種令人想要接近的男人，就是一個生命有著豐富層次的瀟灑男人。」— 褚士瑩《給自己 10 樣人生禮物》](https://www.books.com.tw/products/0010896448)_
+[^24]: _[“Art is useless by definition. If it was useful, it would be a tool.” — Derek Sivers](https://sive.rs/useless)_
