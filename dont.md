@@ -1,6 +1,6 @@
 ---
 description: 我提醒自己不要做的事
-modified: 2026-11-20
+modified: 2026-11-23
 ---
 
 > “All I want to know is where I’m going to die, so I’ll never go there.” — Charlie Munger
@@ -21,13 +21,13 @@ modified: 2026-11-20
 * 不要嘗試討好任何人 [^13]
 * 不要嘗試說服任何人
 * 不要嘗試改變任何人
-* 不要對做自己感到抱歉
+* 不要對做自己感到抱歉 [^20] [^14]
 * 不要想超出控制範圍的事
 * 不要給別人沒有問的建議
-* [不要浪費時間](https://huam.ing/death-clock)，一秒都不行。[^14]
-* 不要跟別人說你還沒辦到的事 [^15] [^16]
-* [不要太相信自己相信的事](https://www.goodreads.com/work/quotes/95742516-don-t-believe-everything-you-think-why-your-thinking-is-the-beginning)，保持初學者心態，擁抱無知。[^17]
-* 不要追逐曇花一現的身外之物，專注在 [勞動](https://huam.ing/2026-10-30) 才能換來的長久收穫。[^18]
+* [不要浪費時間](https://huam.ing/death-clock)，一秒都不行。[^15]
+* 不要跟別人說你還沒辦到的事 [^16] [^17]
+* [不要太相信自己相信的事](https://www.goodreads.com/work/quotes/95742516-don-t-believe-everything-you-think-why-your-thinking-is-the-beginning)，保持初學者心態，擁抱無知。[^18]
+* 不要追逐曇花一現的身外之物，專注在 [勞動](https://huam.ing/2026-10-30) 才能換來的長久收穫。[^19]
 
 [^1]: 例如：[趕公車時，堅持不跑起來](https://noa.bearblog.dev/a-little-bit-of-spine/)。
 [^2]: _“Relax. Nothing is under control.” — Adi Da_
@@ -41,9 +41,10 @@ modified: 2026-11-20
 [^10]: Comparison is the thief of joy.
 [^11]: _“Your job, throughout your entire life, is to disappoint as many people as it takes to avoid disappointing yourself.” — Glennon Doyle, [Untamed](https://www.goodreads.com/work/quotes/73600042)_
 [^12]: 改說：樺明，沒關係，我們好好睡一覺，明天再試一次！
-[^13]: 你只需要努力討好自己。
-[^14]: 但發呆、睡午覺、無所事事並不是浪費時間，做沒有意義的工作才是。
-[^15]: _“You are what you do, not what you say you’ll do.” — Carl Jung_
-[^16]: _“If you start by promising what you don’t even have yet, you’ll lose your desire to work towards getting it.” — Paulo Coelho_
-[^17]: _“Because a huge percentage of the stuff that I tend to be automatically certain of is, it turns out, totally wrong and deluded.” — David Foster Wallace_
-[^18]: 例如：健康的身體、平靜的內心、充滿愛的家。
+[^13]: 你只需要努力討好自己、你只需要向自己證明自己的價值。
+[^14]: _“Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.” — Dr. Seuss_
+[^15]: 但發呆、睡午覺、無所事事並不是浪費時間，做沒有意義的工作才是。
+[^16]: _“You are what you do, not what you say you’ll do.” — Carl Jung_
+[^17]: _“If you start by promising what you don’t even have yet, you’ll lose your desire to work towards getting it.” — Paulo Coelho_
+[^18]: _“Because a huge percentage of the stuff that I tend to be automatically certain of is, it turns out, totally wrong and deluded.” — David Foster Wallace_
+[^19]: 例如：健康的身體、平靜的內心、充滿愛的家。
