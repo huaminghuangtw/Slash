@@ -1,6 +1,6 @@
 ---
 description: 我信奉的核心原則
-modified: 2026-11-20
+modified: 2026-11-22
 ---
 
 * 咖哩飯不能拌。
@@ -10,6 +10,7 @@ modified: 2026-11-20
 * 刻意 [留白](https://huam.ing/20251018) 是必要的。
 * 積極拖延也是必要的。[^1] [^2]
 * 人的潛力是無上限的。
+* 失敗比成功更值得慶祝。
 * 身體是唯一要住一輩子的家。[^3]
 * [坐著時產生的想法都不太靠譜](https://huam.ing/strava)。[^4]
 * 簡單的事一直做，就很不簡單。[^5]
@@ -22,6 +23,7 @@ modified: 2026-11-20
 
 	![](https://media.huam.ing/image/ada3eec06ac4c94147c67004af52c60c.webp "受到 [Michael Greger](https://nutritionfacts.org)《[食療聖經](https://www.books.com.tw/products/0010959070)》（[How Not to Die](https://www.goodreads.com/en/book/show/25663961-how-not-to-die)）和紀錄片《[茹素的力量](https://www.imdb.com/title/tt7455754/)》（[The Game Changers](https://gamechangersmovie.com)）影響，我從 2023 年轉為蔬食主義者，崇尚植物性飲食，這是我平時的午餐和晚餐：一鍋到底，十幾種真食物，撒點鹽、薑黃粉，和幾滴烏醋，就很滿足 😊 一個人的飲食，可以像動物一樣簡單，同時依然保持健康。但現代人的飲食，早已超越單純的生理需求。")
 
+* 人生唯一不變的是變、唯一確定的是不確定。
 * 真正重要的東西是看不見的，只能用心體會。[^7] [^8]
 * 成功是得到你想要的，快樂是想要你得到的。[^9]
 * 真正的大智慧，在於能否活出自己想要的人生。[^10]
