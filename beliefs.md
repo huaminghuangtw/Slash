@@ -1,6 +1,6 @@
 ---
 description: 我信奉的核心原則
-modified: 2026-11-22
+modified: 2026-11-24
 ---
 
 * 咖哩飯不能拌。
@@ -76,7 +76,7 @@ modified: 2026-11-22
 [^20]: _“Genius is eternal patience.” — Michelangelo_
 [^21]: _“Adopt the pace of nature, her secret is patience.” — Ralph Waldo Emerson_
 [^22]: _「識得最近的路，最短也最長；而最遠的路，最長也最短。」— 周夢蝶_
-[^23]: 妥善分配體力：先慢後快 📈
+[^23]: 妥善分配體力：先慢後快、精準發力。
 [^24]: 回血 ⚡️
 [^25]: 例如：晨間儀式、斷食後的復食典禮、啟動深度工作模式
 [^26]: 例如：睡前儀式、飯後散步行程、高強度專注後的刻意放鬆
