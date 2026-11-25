@@ -1,6 +1,6 @@
 ---
 description: Things I use daily
-modified: 2026-11-20
+modified: 2026-11-24
 ---
 
 # Personal Productivity System
@@ -42,6 +42,9 @@ modified: 2026-11-20
 
 # Miscellaneous
 
+* Code editor: [Visual Studio Code](https://code.visualstudio.com)
+* Text expander: [Espanso](https://espanso.org)
+* Blue light filter: [f.lux](https://justgetflux.com)
 * Web browser: [Brave](https://brave.com)
 * RSS reader: [Unread](https://www.goldenhillsoftware.com/unread)
 * Password manager: [Bitwarden](https://bitwarden.com)
