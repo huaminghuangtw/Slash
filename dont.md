@@ -1,11 +1,9 @@
 ---
 description: 我提醒自己不要做的事
-modified: 2026-11-23
+modified: 2026-11-25
 ---
 
 > “All I want to know is where I’m going to die, so I’ll never go there.” — Charlie Munger
-
-> “People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.” — Steve Jobs
 
 下面是我還在練習的拒做清單（Anti-To-Do List）：
 
