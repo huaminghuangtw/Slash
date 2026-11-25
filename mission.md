@@ -1,6 +1,6 @@
 ---
 description: 我的人生使命
-modified: 2026-11-14
+modified: 2026-11-25
 ---
 
 > “Everything starts with vision. You have to see it before you can achieve it. You will never regret the time you spend to develop a very clear vision. When I say clear, I mean so clear that it plays in your mind like a movie.” — Arnold Schwarzenegger
@@ -25,7 +25,7 @@ _我心目中的理想教育，是保有新生兒初見世界的新鮮感；是�
 
 _我心目中的理想教育，是老師用熱忱感召學生，讓他們看見什麼是熱情、體悟生命獨特的意義，並發掘自己在這個世界上不可取代的價值所在。_
 
-> [!NOTE]- Notes to Self
+> [!NOTE]- Notes to self
 >
 > 阿明ㄚ：
 >
@@ -38,6 +38,8 @@ _我心目中的理想教育，是老師用熱忱感召學生，讓他們看見�
 > 人生本來就毫無意義，意義是自己賦予的。在這趟旅途中，你不過是來旅行的：空手而來，空手而去；唯一能短暫擁有的，只有當下的體驗。除了此時此刻，你一無所有。
 >
 > 沒錯，你要追求的，是極致體驗，是整個 [過程](https://huam.ing/20260821)，還有和你一起旅行的夥伴們 — 這些才是最重要的事。
+>
+> 還有，永遠記得：你是因爲曾經淋過雨，所以才想替他人撐把傘。這是你的初衷、你的為什麼。
 >
 > 計利當計天下利，求名當求萬世名。你的使命，是死後還能繼續影響這個世界、幾百年後還會有人記得和提起你的名字。
 >
