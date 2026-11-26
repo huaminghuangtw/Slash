@@ -1,6 +1,6 @@
 ---
 description: 我的人生使命
-modified: 2026-11-25
+modified: 2026-11-26
 ---
 
 > “Everything starts with vision. You have to see it before you can achieve it. You will never regret the time you spend to develop a very clear vision. When I say clear, I mean so clear that it plays in your mind like a movie.” — Arnold Schwarzenegger
@@ -42,5 +42,7 @@ _我心目中的理想教育，是老師用熱忱感召學生，讓他們看見�
 > 還有，永遠記得：你是因爲曾經淋過雨，所以才想替他人撐把傘。這是你的初衷、你的為什麼。
 >
 > 計利當計天下利，求名當求萬世名。你的使命，是死後還能繼續影響這個世界、幾百年後還會有人記得和提起你的名字。
+>
+> [到頭來，上帝並不在乎你這一生中獲得哪些厲害的成就，這並非祂衡量人生的標準。那些世俗的厲害成就，在上帝眼中都不算數。祂只想知道：你曾經幫助過多少人成爲更好的人](https://youtu.be/tvos4nORf_Y?t=1113s)。
 >
 > 活出你想要的 [墓誌銘](https://huam.ing/20260828) 吧！
