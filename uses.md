@@ -1,6 +1,6 @@
 ---
 description: Things I use daily
-modified: 2026-11-24
+modified: 2026-11-27
 ---
 
 # Personal Productivity System
@@ -18,6 +18,38 @@ modified: 2026-11-24
 * [Obsidian](https://obsidian.md/)
 * [Apple Reminders](https://apps.apple.com/us/app/reminders/id1108187841)
 
+# Obsidian Plugins
+
+* [Advanced URI](https://github.com/vinzent03/obsidian-advanced-uri)
+* [Auto Link Title](https://github.com/zolrath/obsidian-auto-link-title)
+* [Better Links](https://github.com/moyf/better-links)
+* [Better Word Count](https://github.com/lukeleppan/better-word-count)
+* [Code Editor Shortcuts](https://github.com/timhor/obsidian-editor-shortcuts)
+* [Collapse All](https://github.com/nathonius/obsidian-collapse-all)
+* [Completr](https://github.com/tth05/obsidian-completr)
+* [CustomJS](https://github.com/saml-dev/obsidian-custom-js)
+* [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
+* [Default New Tab Page](https://github.com/chrisgrieser/new-tab-default-page)
+* [Footnote Shortcut](https://github.com/michabrugger/obsidian-footnotes)
+* [Front Matter Title](https://github.com/snezhig/obsidian-front-matter-title)
+* [Hider](https://github.com/kepano/obsidian-hider)
+* [Linter](https://github.com/platers/obsidian-linter)
+* [Minimal Theme Settings](https://github.com/kepano/obsidian-minimal-settings)
+* [Note Refactor](https://github.com/lynchjames/note-refactor-obsidian)
+* [Pandoc Reference List](https://github.com/obsidian-community/obsidian-pandoc-reference-list)
+* [Permalink Opener](https://github.com/kepano/obsidian-permalink-opener)
+* [Quick Switcher++](https://github.com/darlal/obsidian-switcher-plus)
+* [Shell commands](https://github.com/taitava/obsidian-shellcommands)
+* [Similar Notes](https://github.com/joybro/obsidian-similar-notes)
+* [Smart Typography](https://github.com/mgmeyers/obsidian-smart-typography)
+* [Tag Wrangler](https://github.com/pjeby/tag-wrangler)
+* [Templater](https://github.com/silentvoid13/Templater)
+* [Text Format](https://github.com/benature/obsidian-text-format)
+* [Unique attachments](https://github.com/dy-sh/obsidian-unique-attachments)
+* [Update Relative Links](https://github.com/val3344/obsidian-update-relative-links)
+* [Wrap with shortcuts](https://github.com/manic/obsidian-wrap-with-shortcuts)
+* [Zotero Integration](https://github.com/obsidian-community/obsidian-zotero-integration)
+
 # macOS Tools
 
 * [RunCat](https://github.com/runcat-dev/RunCatNeo) [^1]
@@ -28,17 +60,25 @@ modified: 2026-11-24
 # Sport Gears
 
 * [Garmin fēnix](https://en.wikipedia.org/wiki/Garmin_Fenix)<sup>®</sup> 7X Solar [^5]
-* [Blackroll](https://blackroll.com/) foam rollers
+* [Blackroll](https://blackroll.com/) foam rollers & resistance bands
 
 # Browser Extensions
 
-* [Momentum](https://momentumdash.com/)
-* [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube)
-* [Unhook](https://unhook.app)
-* [DeArrow](https://dearrow.ajay.app)
-* [SponsorBlock](https://sponsor.ajay.app)
+* [Allow copy](https://chromewebstore.google.com/detail/mlloloooolpffjkjaclpfpeednngpjon)
+* [Bitwarden](https://bitwarden.com)
+* [CopyTab URLs](https://chromewebstore.google.com/detail/lolhdpcjpflggojkdoamneplianpomnl)
 * [Dark Reader](https://darkreader.org)
-* [LeechBlock](https://www.proginosko.com/leechblock)
+* [DeArrow](https://dearrow.ajay.app)
+* [Enhancer for YouTube™](https://www.mrfdev.com/enhancer-for-youtube)
+* [floccus](https://chromewebstore.google.com/detail/fnaicdffflnofjppbagibeoednhnbjhg)
+* [LeechBlock NG](https://www.proginosko.com/leechblock)
+* [Momentum](https://momentumdash.com)
+* [Obsidian Web Clipper](https://obsidian.md)
+* [Reddit Untranslate](https://chromewebstore.google.com/detail/eninkmbmgkpkcelmohdlgldafpkfpnaf)
+* [Redirector: Auto URL Redirect & Regex Rules](https://chromewebstore.google.com/detail/lioaeidejmlpffbndjhaameocfldlhin)
+* [SponsorBlock](https://sponsor.ajay.app)
+* [Tampermonkey](https://chromewebstore.google.com/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+* [Unhook](https://unhook.app)
 
 # Miscellaneous
 
