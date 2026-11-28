@@ -1,6 +1,6 @@
 ---
 description: 我努力實踐的價值觀
-modified: 2026-11-26
+modified: 2026-11-28
 ---
 
 * 以終為始。[^1]
@@ -30,7 +30,7 @@ modified: 2026-11-26
 * 放棄沒有複利累積效果的東西，只玩沒有終點線的無限遊戲。[^17]
 * 仔細傾聽身體的耳語與內心的聲音，他們會指引你下一步要怎麼走。
 * 除非逼不得已，才動用意志力 [^18]。大部分時候處在「**專注，但放鬆**」的狀態。[^19] [^20]
-* 決定投入一件事後，時常用「[世界級標準](https://chengweihu.com/pg-on-great-work/)」賞自己一頓粗飽 [^21] [^22] [^23]；同時帶著敬畏之心，默默耕耘，不帶目標地努力，[讓慾望安靜](https://huam.ing/20251213)、讓成果自己說話、讓獎勵自己報到。[^24] [^25]
+* 決定投入一件事後，定期用「[世界級標準](https://chengweihu.com/pg-on-great-work/)」賞自己一頓粗飽 [^21] [^22] [^23]；同時帶著敬畏之心，默默耕耘，不帶目標地努力，[讓慾望安靜](https://huam.ing/20251213)、讓成果自己說話、讓獎勵自己報到。[^24] [^25]
 
 [^1]: _“If you don’t know where you’re going, you might not like where you end up.” — David Bach, [The Latte Factor](https://www.goodreads.com/work/quotes/66413238)_
 [^2]: _“Concentrate all your thoughts upon the work at hand. The sun’s rays do not burn until brought to a focus.” — Alexander Graham Bell_
@@ -42,7 +42,7 @@ modified: 2026-11-26
 [^8]: 班傑明 · 富蘭克林（Benjamin Franklin）每天早晚分別會問自己兩個問題：「什麼事讓我有使命感？」（What good shall I do today?）、「什麼事讓我有成就感？」（What good have I done today?）
 [^9]: 學會不解釋，畢竟 [最高級的炫耀就是不炫耀](https://wiwi.blog/blog/countersignaling/)。
 [^10]: 不要累積疲勞是最高指導原則。
-[^11]: 然後字跡要工整……
+[^11]: 記得字跡要工整。我有好幾次因為字太醜，看不懂自己在寫啥碗糕，只好含淚放棄好不容易捕捉到的靈感，悲傷 😭
 [^12]: _“Every composer knows the anguish and despair occasioned by forgetting ideas which one had no time to write down.” — Hector Berlioz_
 [^13]: _「道常無為而無不為。」— 老子《道德經》第三十七章_
 [^14]: _「菩提本無樹，明鏡亦非台；本來無一物，何處惹塵埃？」—《六祖壇經》_
